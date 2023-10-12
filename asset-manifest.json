@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Todo_App/static/css/main.c3e919b2.css",
-    "main.js": "/Todo_App/static/js/main.2e0c6a48.js",
+    "main.js": "/Todo_App/static/js/main.83525387.js",
     "static/media/Alexandria-Bold.ttf": "/Todo_App/static/media/Alexandria-Bold.0cf36a1f1e325bcf6dcf.ttf",
     "static/media/Alexandria-Black.ttf": "/Todo_App/static/media/Alexandria-Black.6ae708e765675e6b0e46.ttf",
     "static/media/Alexandria-Light.ttf": "/Todo_App/static/media/Alexandria-Light.38ea9ca48ff224061348.ttf",
     "static/media/Alexandria-Regular.ttf": "/Todo_App/static/media/Alexandria-Regular.4535b8eea67a5b9234dc.ttf",
     "index.html": "/Todo_App/index.html",
     "main.c3e919b2.css.map": "/Todo_App/static/css/main.c3e919b2.css.map",
-    "main.2e0c6a48.js.map": "/Todo_App/static/js/main.2e0c6a48.js.map"
+    "main.83525387.js.map": "/Todo_App/static/js/main.83525387.js.map"
   },
   "entrypoints": [
     "static/css/main.c3e919b2.css",
-    "static/js/main.2e0c6a48.js"
+    "static/js/main.83525387.js"
   ]
 }
