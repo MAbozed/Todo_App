@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.iconBtnCheck,
+.iconBtnEdit,
+.iconBtnDel,
+.todoCard {
+  transition: all 0.2s ease-in !important;
+}
+
+.iconBtnCheck:hover,
+.iconBtnEdit:hover,
+.iconBtnDel:hover {
+  box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+.todoCard:hover {
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+}
+
+/* * Fonts * */
+
+@font-face {
+  font-family: Alexandria;
+  src: url(../public/fonts/Alexandria-Regular.ttf);
+  font-weight: normal;
+}
+@font-face {
+  font-family: Alexandria;
+  src: url(../public/fonts/Alexandria-Bold.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: Alexandria;
+  src: url(../public/fonts/Alexandria-Black.ttf);
+  font-weight: 900;
+}
+@font-face {
+  font-family: Alexandria;
+  src: url(../public/fonts/Alexandria-Light.ttf);
+  font-weight: 200;
+}
