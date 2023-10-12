@@ -111,7 +111,7 @@ export default function TodoList() {
   }
 
   useEffect(() => {
-    setTodo(JSON.parse(localStorage.getItem("todos")));
+    setTodo(JSON.parse(localStorage.getItem("todos")) ?? []);
   }, []);
 
   function handleDisplayTodoType(e) {
